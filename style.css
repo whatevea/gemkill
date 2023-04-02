@@ -1,0 +1,16 @@
+@import url('https://fonts.cdnfonts.com/css/turkish-participants');
+html, body {
+  margin:0;
+  height: 100%;
+  width: 100%;
+}
+
+.ui{
+  height:70px;
+  font-size:40px !important;
+                                                                  font-family: 'Turkish Participants', sans-serif !important;
+                                      
+}
+#screen{
+/*   height:90%  */
+}
